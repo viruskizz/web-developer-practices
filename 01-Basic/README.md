@@ -1,6 +1,6 @@
 # Basic Web Developer 
 
-###Course Outline
+### Course Outline
 - การใช้งาน Editor พื้นฐาน อย่าง VSCode
 - การใช้งานคำสั่ง Command Line Interface (CLI) พื้นฐาน
 - การใช้งาน Git บน GitHub

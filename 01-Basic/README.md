@@ -1,5 +1,4 @@
 # Basic Web Developer 
-___
 
 ###Course Outline
 - การใช้งาน Editor พื้นฐาน อย่าง VSCode
@@ -9,10 +8,12 @@ ___
 - การตกแต่ง Website ด้วย CSS
 - การใช้งาน Libary ของ CSS อย่าง Bootstrap
 
-###Project
+### Project
+
 เมื่อเรียนรู้จากคอร์สนี้แล้ว ผู้เรียนจะได้สร้างเว็ปไซต์เป็นของตัวเอง บน Git Page โดยเป็น เว็ปไวต์ที่แสดงผลงานส่วนตัว หรือ Portfolio
 
-###Prerequisite
+### Prerequisite
+
 **VSCode**
 - [Link Download](https://code.visualstudio.com/)
 - [VSCode Document](https://code.visualstudio.com/docs/introvideos/basics)
@@ -25,4 +26,4 @@ ___
 - [GitHub Desktop](https://desktop.github.com/) *<small>(GUI Optional)</small>*
 
 **Linux Console for Window**
-- [Cmder](https://cmder.net/) d
+- [Cmder](https://cmder.net/)

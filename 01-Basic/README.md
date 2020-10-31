@@ -19,10 +19,16 @@ ___
 - [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
 - [The 20 Best VSCode  Extensions](https://x-team.com/blog/best-vscode-extensions/)
 - [VSCode Keyboard Shortcuts For Productivity](https://www.youtube.com/watch?v=Xa5EU-qAv-I)
+- [Integrated Gitbash Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
+- [Integrated Gitbash Terminal](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 
 **Git**
 - [Link Download](https://git-scm.com/downloads)
 - [GitHub Desktop](https://desktop.github.com/) *<small>(GUI Optional)</small>*
 
 **Linux Console for Window**
-- [Cmder](https://cmder.net/) d
+- [Cmder](https://cmder.net/)
+- [คำสั่ง Unix – Linux Command](https://saixiii.com/unix-linux-command/)
+
+**HTML**
+- [w3schools](https://www.w3schools.com/)

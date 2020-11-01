@@ -1,0 +1,28 @@
+body {
+    background-color: #f1f1f1;
+    font-family: 'Roboto', sans-serif;
+}
+.card {
+    margin: 0px 10px 0px 10px;
+    border: 1px solid gray;
+}
+.box {
+    box-shadow: 3px 5px #888888;
+}
+.title {
+    font-size: medium;
+    font-weight: bold;
+    color: darkslategray;
+}
+#card-1 {
+    background-color:violet;
+}
+#card-2 {
+    background-color: green;
+}
+#card-3 {
+    background-color: blue;
+}
+#card-4 {
+    background-color: orange;
+}
